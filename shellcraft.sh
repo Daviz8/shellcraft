@@ -119,6 +119,7 @@ alias gbD='git branch --delete --force'
 
 # Committing
 alias gc='git commit'
+alias gcl='git clone'
 alias gcm='git commit -m'
 alias gca='git commit --amend'
 alias gcan='git commit --amend --no-edit'
